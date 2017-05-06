@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `bookstore` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) NOT NULL,
+  `book_name` varchar(1024) NOT NULL COMMENT '图书名称',
+  `book_price` DECIMAL(10,2) NOT NULL COMMENT '图书价格',
+  `create_time` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP ,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8;
