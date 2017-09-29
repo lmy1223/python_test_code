@@ -1,0 +1,13 @@
+{
+ "ID": "46f10278-ed15-4215-55f5-4a2252ea4476",
+ "Content": "[]已知实数a、b满足等式，求的值．",
+ "Method": "解：+==，解得：=，去分母得：2+x-1，整理得：aba2-，即-=1，设=x，变为-x1，则=．",
+ "Analyse": "已式变形后，即可定出所求子的值．",
+ "Discuss": "此题考查了式的合算，熟掌运算法则解本题的关键．",
+ "Degree": "0.73",
+ "Label": null,
+ "Options": null,
+ "Answers": null,
+ "Point": null,
+ "blank_answer": []
+}

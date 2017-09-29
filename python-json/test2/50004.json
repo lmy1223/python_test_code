@@ -1,0 +1,15 @@
+{
+ "ID": "9be38105-1115-15d4-5dc8-d8622592c891",
+ "Content": "[]当x=时，分式的值为零．",
+ "Method": "此题主要考查了分式值为零的条件，关键是分式值为零件是子等且母不于零．注意“分母为零这个条件不能少．",
+ "Analyse": "解：由题意可得：|x2=x2-2x≠0，解得x=-，故案为：-2．",
+ "Discuss": null,
+ "Degree": "0.63",
+ "Label": "（2015春•达县期中）",
+ "Options": null,
+ "Answers": null,
+ "Point": null,
+ "blank_answer": [
+
+ ]
+}
